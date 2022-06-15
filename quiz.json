@@ -1,0 +1,28 @@
+ {
+  "data":[
+    {
+      "id":0,
+      "Question":["Who is the lead actor of the movie Interstellar?"],
+      "Answers":["Mackenzi Foy","Json Statham","jackie Chan","Matthew McConaughey","other"],
+      "Reply":3
+    },
+    {
+      "id":1,
+      "Question":["what is the world's largest lake?"],
+      "Answers":["Huron","Superior","Tanganyika","Baikal","Caspian"],
+      "Reply":4
+    },
+    {
+      "id":2,
+      "Question":["Which is not social media?"],
+      "Answers":["Texteditör","Facebook","İnstagram","Twitter","Snapchat"],
+      "Reply":0
+    },
+    {
+      "id":3,
+      "Question":["Which is not a means of transportation?"],
+      "Answers":["Car","Bus","Airplane","Train","Funeral"],
+      "Reply":2
+    }
+  ]
+ }

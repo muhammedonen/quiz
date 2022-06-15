@@ -1,0 +1,28 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  list-style-type: none;
+}
+.y{
+  height: 500px;
+  margin-top: 50px;
+}
+img{
+  cursor: pointer;
+}
+
+@media screen and (max-width: 582px) {
+  
+  .card{
+    width: 200px;
+    margin-top: 50px;
+  }
+  img{
+    z-index: -1;
+    height: 10px;
+    width: 25;
+  }
+}
+li{
+  cursor: pointer;
+}
